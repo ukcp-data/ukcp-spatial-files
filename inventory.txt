@@ -1,0 +1,14 @@
+Old geometry name	Current geometry name	Source URL	Description 
+BritishIsles	ukcp18-uk-land-country-hires		UK Country boundaries (high-resolution)
+BritishIsles-simplified	ukcp18-uk-land-country-lowres		UK Country boundaries (low-resolution) 
+river_basins	ukcp18-uk-land-river-hires		UK River Basin boundaries (high-resolution) 
+river_basins-simplified	ukcp18-uk-land-river-lowres		UK River Basin boundaries (low-resolution) 
+uk_25km_osgb_mask	ukcp18-uk-land-25km		UK Land 25km grid 
+UK_Admin	ukcp18-uk-land-region-hires		UK Administrative Regions (high-resolution)
+UK_Admin_simplified	ukcp18-uk-land-region-lowres		UK Administrative Regions (low-resolution)
+UKCoastline	ukcp18-uk-marine-coastline-hires		UK Marine Coastline boundaries (high-resolution)
+UKCoastlineSmall	ukcp18-uk-marine-coastline-lowres		UK Marine Coastline boundaries (low-resolution)
+ukcp18_marine_coast	ukcp18-uk-marine-coast-gridded		UK Marine Coastline grid
+ukcp18_marine_gauge	ukcp18-uk-marine-gauge-gridded		UK Marine Tide Gauge Locations grid
+uk_ireland_12km_osgb	ukcp18-uk-land-12km		UK Land 12km grid
+uk_ireland_60km_osgb	ukcp18-uk-land-60km		UK Land 60km grid
