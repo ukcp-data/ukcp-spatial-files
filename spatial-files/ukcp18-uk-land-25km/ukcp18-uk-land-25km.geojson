@@ -435,5 +435,5 @@
 {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[325000,950000],[325000,975000],[350000,975000],[350000,950000],[325000,950000]]]},"properties":{"area":625000000,"centroid_x":337500,"centroid_y":962500}},
 {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[275000,875000],[275000,900000],[300000,900000],[300000,875000],[275000,875000]]]},"properties":{"area":625000000,"centroid_x":287500,"centroid_y":887500}},
 {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[150000,600000],[150000,625000],[175000,625000],[175000,600000],[150000,600000]]]},"properties":{"area":625000000,"centroid_x":162500,"centroid_y":612500}},
-{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[625000,150000],[625000,175000],[650000,175000],[650000,150000],[625000,150000]]]},"properties":{"area":625000000,"centroid_x":0,"centroid_y":0}}
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[625000,150000],[625000,175000],[650000,175000],[650000,150000],[625000,150000]]]},"properties":{"area":625000000,"centroid_x":637500,"centroid_y":162500}}
 ]}
