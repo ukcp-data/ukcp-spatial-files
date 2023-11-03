@@ -5,7 +5,7 @@ Coverage:
 - countries
 - admin regions
 - river basins
-- all grids: 60km, 25km, 12km, 5km, 2.2km
+- all grids: 60km, 25km, 12km, 5km, 1km
 
 Stored as:
 
